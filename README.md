@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### ✨ [View the Interactive Data Visualization](https://nicholas0027.github.io/ODIDMobTraj/ODIDMob_Vis.html) ✨
+### ✨ [View the Interactive Data Visualization](https://odidmobtraj.netlify.app/) ✨
 
 </div>
 
